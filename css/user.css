@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body,html{
+    overflow-x: hidden !important;
+} */
+
+.user-image{
+    width: 150px !important;
+    height: 150px;
+    object-position: center;
+    object-fit: cover;
+}
+.user-image-table{
+    width: 50px !important;
+    height: 50px;
+    object-position: center;
+    object-fit: cover;
+}
+.user-image-nav{
+    width: 45px !important;
+    height: 45px;
+    object-position: center;
+    object-fit: cover;
+}
